@@ -1,6 +1,6 @@
-# Bayes-Factor-for-NAM-Beta-Coefficients
-This simulation study presents Bayes factor testing for β coefficients in the network autocorrelation model using Savage-Dickey ratio and BIC approximation methods. It proposes Bayes factors for two-sided and multiple hypotheses testing procedures
+## Bayes Factor Hypothesis Testing for Network Autocorrelation Beta Coefficients
 
+This simulation study presents Bayes factor testing for β coefficients in the network autocorrelation model using Savage-Dickey ratio and BIC approximation methods. It proposes Bayes factors for two-sided and multiple hypotheses testing procedures
 
 
 In network autocorrelation model, the classical hypothesis testing
